@@ -1,6 +1,12 @@
-## Hi there 👋 I'm Sümeyye Kübra
-* 👩🏻💻 I’m currently studying computer engineering.
-* 🌱 I’m currently learning PHP
+## Hi, I'm Sümeyye! 👋
+
+I am a Computer Engineering student with a strong background in Math Teacher. I enjoy bridging the gap between analytical thinking and software engineering.
+
+💻 Currently Focusing On: Full Stack Development & AI/Data Mining
+
+🌱 Passionate About: Building interactive educational tools, database design, and creating user-centric applications.
+
+🎯 Goal: To develop functional, data-driven, and meaningful web applications that solve real-world problems.
 * 📫 How to reach me: s.kubraakkoz@gmail.com
 
 ## Social media
