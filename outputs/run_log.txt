@@ -1,0 +1,34 @@
+=== Veri Özeti ===
+Orijinal şekil: (2126, 22), Duplicates: 13, Missing toplam: 0
+Sınıf dağılımı:
+ fetal_health
+1.0    1646
+2.0     292
+3.0     175
+Name: count, dtype: int64
+
+=== Logistic Regression Raporu ===
+              precision    recall  f1-score   support
+
+           1      0.924     0.961     0.942       330
+           2      0.640     0.552     0.593        58
+           3      0.900     0.771     0.831        35
+
+    accuracy                          0.889       423
+   macro avg      0.821     0.761     0.788       423
+weighted avg      0.883     0.889     0.885       423
+
+
+=== Random Forest Raporu ===
+              precision    recall  f1-score   support
+
+           1      0.948     0.994     0.970       330
+           2      0.930     0.690     0.792        58
+           3      0.971     0.943     0.957        35
+
+    accuracy                          0.948       423
+   macro avg      0.950     0.875     0.906       423
+weighted avg      0.947     0.948     0.945       423
+
+
+Görseller ve çıktılar: /workspace/outputs
